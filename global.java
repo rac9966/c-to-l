@@ -1,4 +1,4 @@
-class
+class A
 {
 int a;
 }
